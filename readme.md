@@ -26,7 +26,7 @@ Colormode button toggles background color for surplus on or off.
 
 ### Releases:
 
-([This Release - Basic functionality](https://github.com/DRgreenT/CoI-Diesel_Calculator/blob/master/build/CoI-Diesel_Calculator.exe)) 
+[This Release - Basic functionality](https://github.com/DRgreenT/CoI-Diesel_Calculator/blob/master/build/CoI-Diesel_Calculator.exe) 
 
 ---
 
