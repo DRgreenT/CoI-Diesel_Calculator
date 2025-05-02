@@ -1,6 +1,6 @@
 ## Captain of Industry Diesel calculator
 
-<img src="[https://github.com/DRgreenT/CoI_Calculator/blob/main/CoI_Calc.0.1.0.png](https://github.com/DRgreenT/CoI-Diesel_Calculator/blob/master/docs/pic1.png)">
+<img src="https://github.com/DRgreenT/CoI-Diesel_Calculator/blob/master/docs/pic1.png">
 
 ---
 
